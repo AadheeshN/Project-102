@@ -1,0 +1,16 @@
+# Ideas needed to be automated
+
+1.  Scanning Documents and Files and 1-tap sharing it anywhere
+2.  A To-Do List that uses AI to check browser and check whether the tasks in the to-do list are complete.
+3.  Write 1 sentence in an e-mail and have AI write out the rest using elements from the first line.
+
+# Idea I will be choosing
+
+-  Scanning Documents and Files and 1-tap sharing
+
+# What is necessary
+
+-  Acces to Camera to be able to see the Documents
+-  AI feature that can identify edges and shape of the paper
+-  Button with feature that can share to any software you want
+-  Good UI
